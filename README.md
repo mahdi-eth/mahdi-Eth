@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hey,Mahdi here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<h1>Welcome to my humble abode in the Digital World..</h1> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact">
+ ## Technologies I Use
 
 <!--
 **mahdi-Eth/mahdi-Eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
