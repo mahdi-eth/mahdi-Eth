@@ -2,7 +2,7 @@
 <br/>
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
-<a href="#"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact"></a>
+<a href="#"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact"> </a>
 
 <br/>
 
