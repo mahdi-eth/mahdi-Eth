@@ -1,10 +1,30 @@
-## Hey,Mahdi here!<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></a>
+<h1 align="center">Hello!<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></a> Welcome to my humble abode in the Digital World.</h1> 
+
+  ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Mahdi Ettehadnejad'
+         age = 16
+		current_work = 'Writing code'
+		learning = [
+              'Javascript',
+		     'Python'
+			]
+	
+	def getCity():
+		return Shiraz_Iran()
+	
+	def Ambitions():
+		mern_stack_developer()
+		AI_developer()
+ ;)
+	
+ ```
+
 <br/>
 
-<h1>Welcome to my humble abode in the Digital World.</h1> 
 <a href="#"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact"> </a>
 
-<br/>
 
 ## Programming Languages
 <a href="#"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a> <a href="#"><img src = 
@@ -15,13 +35,9 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
  <a href="#">![Mahdi's github stats]( https://github-readme-stats.vercel.app/api?username=mahdi-Eth&show_icons=true&hide=[%22issues%22]
 )</a>
-<br/>
-<br/>
 <br/>
 <br/>
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
