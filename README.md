@@ -16,7 +16,7 @@
 	
 	def Ambitions():
 		mern_stack_developer()
-		AI_developer()
+		AI_engineer()
  ;)
 	
  ```
