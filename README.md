@@ -26,7 +26,7 @@
 <a href="#"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact"> </a>
 
 
-## Programming Languages And Technologies I use
+## Programming Languages And Technologies I use:
 <a href="#"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a> <a href="#"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/></a> <a href="#"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/></a> <a href="#"><img src = 
