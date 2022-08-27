@@ -6,10 +6,7 @@
  	user = 'Mahdi Ettehadnejad'
          age = 16
 		current_work = 'Writing code'
-		learning = [
-              'Javascript',
-		     'Python'
-			]
+		learning = ['Javascript','Python']
 	
 	def getCity():
 		return Shiraz_Iran()
@@ -17,7 +14,6 @@
 	def Ambitions():
 		mern_stack_developer()
 		AI_engineer()
- ;)
 	
  ```
 
