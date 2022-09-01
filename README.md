@@ -1,4 +1,4 @@
-<h1 align="center">Hello Humans!<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></a> Welcome to my home in the Digital World.</h1> 
+<h1 align="center">Hello!<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></a> Welcome to my humble abode in the Digital World.</h1> 
 
   ## Who am I?
  ```python
