@@ -27,7 +27,8 @@
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/></a> <a href="#"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/></a> <a href="#"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a href="#"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/></a>
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/></a> <a href="#"><img src = 
+'https://i.pinimg.com/564x/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.jpg' width='33'/></a>
 
 <br/>
 <br/>
