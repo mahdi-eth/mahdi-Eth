@@ -23,11 +23,11 @@
 
 
 ## Programming Languages And Technologies I use :
-<a href="#"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a> <a href="#"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/></a> <a href="#"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/></a> <a href="#"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a href="#"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/></a> <a href="#"><img src = 
+<a href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a> <a href="https://html.com/"><img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/></a> <a href="https://css-tricks.com/"><img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/></a> <a href="https://www.javascript.com/"><img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a href="https://getbootstrap.com/"><img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/></a> <a href="https://www.figma.com/"><img src = 
 'https://i.pinimg.com/564x/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.jpg' width='33'/></a>
 
 <br/>
