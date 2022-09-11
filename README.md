@@ -34,7 +34,8 @@
 <br/>
 
 ## <a href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>    Python libararies and frameworks I use 👇
- - <a href="https://matplotlib.org/">Matplotlib 🗂️<a/>
+ - <a href="https://matplotlib.org/">Matplotlib 📊<a/>
+  - <a href="https://pandas.pydata.org/">Pandas 🧮<a/>
 
 	
 <br/>
