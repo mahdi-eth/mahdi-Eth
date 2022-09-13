@@ -6,7 +6,7 @@
  	user = 'Mahdi Ettehadnejad'
          age = 16
 		current_work = 'Writing code'
-		learning = ['Javascript','Python']
+		learning = ['Javascript','Python','NumPy']
 	
 	def getCity():
 		return Shiraz_Iran()
