@@ -23,13 +23,16 @@
 
 
 ## Programming Languages And Technologies I use 👇
-<a href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a> <a href="https://html.com/"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/></a> <a href="https://css-tricks.com/"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/></a> <a href="https://www.javascript.com/"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a href="https://getbootstrap.com/"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/></a> <a href="https://www.figma.com/"><img src = 
-'https://i.pinimg.com/564x/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.jpg' width='33'/></a>
+<a title="Python" href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a> <a title="HTML" href="https://html.com/"><img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/></a> <a title="CSS" href="https://css-tricks.com/"><img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/></a> <a title="JavaScript" href="https://www.javascript.com/"><img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a title="Bootstrap" href="https://getbootstrap.com/"><img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/></a> <a title="Figma" href="https://www.figma.com/"><img src = 
+'https://i.pinimg.com/564x/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.jpg' width='33'/></a> <a title="Git" href="https://git-scm.com/"><img src = 
+'https://git-scm.com/images/logos/logomark-orange@2x.png' width='38'/></a>
 
+
+	
 <br/>
 <br/>
 
