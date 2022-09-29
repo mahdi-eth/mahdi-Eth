@@ -29,9 +29,7 @@
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a title="Bootstrap" href="https://getbootstrap.com/"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/></a> <a title="Figma" href="https://www.figma.com/"><img src = 
 'https://i.pinimg.com/564x/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.jpg' width='33'/></a> <a title="Git" href="https://git-scm.com/"><img src = 
-'https://git-scm.com/images/logos/logomark-orange@2x.png' width='38'/></a>
-
-
+'https://git-scm.com/images/logos/logomark-orange@2x.png' width='33'/></a>
 	
 <br/>
 <br/>
