@@ -6,7 +6,7 @@
  	user = 'Mahdi Ettehadnejad'
          age = 16
 		current_work = 'Writing code'
-		learning = ['Javascript','Python','Data visualization']
+		learning = ['React','Data visualization','CS']
 	
 	def getCity():
 		return Shiraz_Iran()
@@ -16,11 +16,10 @@
 		AI_engineer()
 	
  ```
+ 
+ 
 
 <br/>
-
-<a href="#"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact"> </a>
-
 
 ## Programming Languages And Technologies I use 👇
 <a title="Python" href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a> <a title="HTML" href="https://html.com/"><img src = 
@@ -45,14 +44,16 @@
 <br/>
 <br/>
 	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&theme=radical&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-Eth&show_icons=true&theme=radical)
 
- <a href="#">![Mahdi's github stats]( https://github-readme-stats.vercel.app/api?username=mahdi-Eth&show_icons=true&hide=[%22issues%22]
-)</a>
+
+
+
+
 <br/>
-<br/>
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
-<br/>
-<br/>
+
 - 👦🏻 My dear teacher [Mr.hosseinnaseriir](https://github.com/hosseinnaseriir).
 
 
