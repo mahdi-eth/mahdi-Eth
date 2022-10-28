@@ -44,11 +44,11 @@
 <br/>
 <br/>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&theme=radical&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
+
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&theme=radical&langs_count=80)
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-Eth&show_icons=true&theme=radical)
-
-
 
 
 
