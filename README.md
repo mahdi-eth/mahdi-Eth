@@ -5,7 +5,7 @@
  class WhoAmI:
  	user = 'Mahdi Ettehadnejad'
          age = 16
-		current_work = 'Writing code'
+		current_work = 'Learning to code'
 		learning = ['React','Data visualization','CS']
 	
 	def getCity():
