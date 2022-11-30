@@ -49,6 +49,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&theme=radical&langs_count=80)
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-Eth&show_icons=true&theme=radical)
+	
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahdi-Eth&theme=radical)](https://git.io/streak-stats)
 
 
 
