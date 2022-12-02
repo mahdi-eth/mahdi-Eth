@@ -27,13 +27,17 @@
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/></a> <a title="JavaScript" href="https://www.javascript.com/"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a title="Bootstrap" href="https://getbootstrap.com/"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/></a> <a title="Figma" href="https://www.figma.com/"><img src = 
-'https://i.pinimg.com/564x/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.jpg' width='33'/></a> <a title="Git" href="https://git-scm.com/"><img src = 
+'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width='33'/></a> <a title="Git" href="https://git-scm.com/"><img src = 
 'https://git-scm.com/images/logos/logomark-orange@2x.png' width='33'/></a>
+<a title='Webpack' href='https://webpack.js.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" heigth='30' width='33'/></a>
+<a title='Reactjs' href='https://reactjs.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth='30' width='33'/></a>
+<a title='Tailwind' href='https://tailwindcss.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" heigth='30' width='33'/></a>
+<a title='C' href='https://en.wikipedia.org/wiki/C_(programming_language)'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth='30' width='33'/></a>
 	
 <br/>
 <br/>
 
-## <a href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>    Python libraries I use 👇
+## <a title="Python" href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>    Python libraries I use 👇
  - <a href="https://matplotlib.org/">Matplotlib 📊<a/>
  -  <a href="https://seaborn.pydata.org/">Seaborn 🌊<a/>
  -  <a href="https://pandas.pydata.org/">Pandas 🧮<a/>
@@ -44,19 +48,22 @@
 <br/>
 <br/>
 	
-
+<a href="#">
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&theme=radical&langs_count=80)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&theme=radical&langs_count=80) -->
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact&langs_count=80&theme=radical)
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-Eth&show_icons=true&theme=radical)
 	
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahdi-Eth&theme=radical)](https://git.io/streak-stats)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=mahdi-Eth&theme=radical)
+	
+<a/>
 
 
 <br/>
 
-- 👦🏻 My dear teacher [Mr.hosseinnaseriir](https://github.com/hosseinnaseriir).
+- 👦🏻 My dear mentor [Mr.hosseinnaseriir](https://github.com/hosseinnaseriir).
 
 
 <!--
