@@ -34,14 +34,14 @@
 <a title='Tailwind' href='https://tailwindcss.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" heigth='30' width='33'/></a>
 <a title='C' href='https://en.wikipedia.org/wiki/C_(programming_language)'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth='30' width='33'/></a>
 	
-<br/>
+<!-- <br/>
 <br/>
 
 ## <a title="Python" href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>    Python Libraries I use 👇
  - <a href="https://matplotlib.org/">Matplotlib 📊<a/>
  -  <a href="https://pandas.pydata.org/">Pandas 🧮<a/>
  -  <a href="https://numpy.org/">Numpy 🔢<a/>
-
+ -->
 	
 <br/>
 <br/>
