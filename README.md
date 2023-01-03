@@ -6,7 +6,7 @@
  	user = 'Mahdi Ettehadnejad'
          age = 16
 		current_work = 'Web Developer'
-		learning = ['React','Data visualization','CS']
+		learning = ['Backend Development','Data visualization','CS']
 	
 	def getCity():
 		return Shiraz_Iran()
