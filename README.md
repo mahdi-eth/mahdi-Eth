@@ -35,6 +35,7 @@
 <a title='Webpack' href='https://webpack.js.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" heigth='30' width='33'/></a>
 <a title='Reactjs' href='https://reactjs.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth='30' width='33'/></a>
 <a title='Tailwind' href='https://tailwindcss.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" heigth='30' width='33'/></a>
+<a title='Sass' href='https://sass-lang.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" heigth='30' width='33'/></a>
 <a title='C' href='https://en.wikipedia.org/wiki/C_(programming_language)'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth='30' width='33'/></a>
 <a title='ESLint' href='https://eslint.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" heigth='30' width='33'/></a>
           
