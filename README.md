@@ -38,6 +38,7 @@
 <a title='Tailwind' href='https://tailwindcss.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" heigth='30' width='33'/></a>
 <a title='Sass' href='https://sass-lang.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" heigth='30' width='33'/></a>
 <a title='ESLint' href='https://eslint.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" heigth='30' width='33'/></a>
+<a title='MySQL' href='https://'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" heigth='30' width='33'/></a>
           
 	  
 	
