@@ -38,7 +38,7 @@
 <a title='Tailwind' href='https://tailwindcss.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" heigth='30' width='33'/></a>
 <a title='Sass' href='https://sass-lang.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" heigth='30' width='33'/></a>
 <a title='ESLint' href='https://eslint.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" heigth='30' width='33'/></a>
-<a title='MySQL' href='https://www.mysql.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" heigth='30' width='33'/></a>
+<!--<a title='MySQL' href='https://www.mysql.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" heigth='30' width='33'/></a>>
           
 	  
 	
@@ -77,6 +77,7 @@
 **mahdi-Eth/mahdi-Eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
