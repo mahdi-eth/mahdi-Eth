@@ -42,6 +42,7 @@
 <a title='Nodejs' href='https://www.nodejs.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" heigth='30' width='33'/></a>
  <a title='Expressjs' href='https://expressjs.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" heigth='30' width='33'/></a>
  <a title='Mongodb' href='https://www.mongodb.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" heigth='30' width='33'/></a>
+  <a title='Flask' href='https://flask.palletsprojects.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" heigth='30' width='33'/></a>
 	  
 	
 <!-- <br/>
