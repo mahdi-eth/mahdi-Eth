@@ -5,14 +5,13 @@
 class WhoAmI:
 	user = 'Mahdi Ettehadnejad'
         age = 16
-   	current_work = 'Web Developer'
+   	current_work = 'MERN-Stack Developer'
    	learning = ['Backend Development', 'Machine learning', 'CS']
    
    def getCity():
    	return Shiraz_Iran()
    
    def Ambitions():
-   	mern_stack_developer()
    	AI_engineer()
 	
  ```
