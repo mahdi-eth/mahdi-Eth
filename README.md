@@ -44,15 +44,7 @@ class WhoAmI:
   <a title='Flask' href='https://flask.palletsprojects.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" heigth='30' width='33'/></a>
 	  
 	
-<!-- <br/>
-<br/>
 
-## <a title="Python" href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>    Python Libraries I use 👇
- - <a href="https://matplotlib.org/">Matplotlib 📊<a/>
- -  <a href="https://pandas.pydata.org/">Pandas 🧮<a/>
- -  <a href="https://numpy.org/">Numpy 🔢<a/>
- -->
-	
 <br/>
 <br/>
 <br/>
@@ -61,6 +53,20 @@ class WhoAmI:
 
 - [**React Musium**](https://github.com/mtabatabaeifard/react-musium): Music App With React, This App is a Mobile-first App(PWA) Built With React FrameWork.
 
+<br/>
+<br/>
+<br/>
+
+## Connect with me 🔭
+
+<a href="https://www.linkedin.com/in/mahdi-ettehadnejad-86a0b323a/"><img align="left" alt="LinkedIn" width="36px" src="https://user-images.githubusercontent.com/99660553/225256493-e9b67f2a-b6a5-4b69-a3a5-ec9e2699d713.png" /></a>
+<a href="https://t.me/mahdi_eth7895"><img align="left" alt="Telegram" width="36px" src="https://user-images.githubusercontent.com/99660553/225257690-c81f23a0-b345-4237-94bf-1aae938494d8.png" /></a>
+<a href="https://twitter.com/MahdiEttehad"><img align="left" alt="Twitter" width="36px" src="https://user-images.githubusercontent.com/99660553/225258675-6fd10281-6902-4ff7-a819-d69b3e312653.png" /></a>
+<a href="mailto:mahdi.ettehad85@gmail.com"><img align="left" alt="Gmail" width="36px" src="https://user-images.githubusercontent.com/99660553/225258851-2d990bdd-544c-42d7-b638-7b74e5736e3b.png" /></a>
+
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
