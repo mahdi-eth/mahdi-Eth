@@ -84,9 +84,6 @@ class WhoAmI:
 <a/>
 
 
-<br/>
-
-- 👦🏻 My dear mentor [Mr.hosseinnaseriir](https://github.com/hosseinnaseriir).
 
 
 <!--
