@@ -47,13 +47,11 @@ class WhoAmI:
 
 <br/>
 <br/>
-<br/>
 
 ## Projects I've Contributed to 🧑🏻‍💻
 
 - [**React Musium**](https://github.com/mtabatabaeifard/react-musium): Music App With React, This App is a Mobile-first App(PWA) Built With React FrameWork.
 
-<br/>
 <br/>
 <br/>
 
@@ -64,7 +62,6 @@ class WhoAmI:
 <a href="https://twitter.com/MahdiEttehad"><img align="left" alt="Twitter" width="36px" src="https://user-images.githubusercontent.com/99660553/225258675-6fd10281-6902-4ff7-a819-d69b3e312653.png" /></a>
 <a href="mailto:mahdi.ettehad85@gmail.com"><img align="left" alt="Gmail" width="36px" src="https://user-images.githubusercontent.com/99660553/225258851-2d990bdd-544c-42d7-b638-7b74e5736e3b.png" /></a>
 
-<br/>
 <br/>
 <br/>
 <br/>
