@@ -21,10 +21,11 @@ class WhoAmI:
 <br/>
 
 ## Programming Languages And Technologies I use 👇
-<a title='C' href='https://en.wikipedia.org/wiki/C_(programming_language)'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth='30' width='33'/></a>
 <a title="Python" href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>
+<a title="Scikit-learn" href="https://scikit-learn.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" height="30"/> </a>
 <a title='Numpy' href='https://numpy.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" heigth='30' width='33'/></a>
 <a title='Pandas' href='https://pandas.pydata.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" heigth='30' width='33'/></a>
+<a title='C' href='https://en.wikipedia.org/wiki/C_(programming_language)'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth='30' width='33'/></a>
 <a title="HTML" href="https://html.com/"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/></a> <a title="CSS" href="https://css-tricks.com/"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/></a> <a title="JavaScript" href="https://www.javascript.com/"><img src = 
