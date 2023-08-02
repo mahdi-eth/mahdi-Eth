@@ -6,7 +6,7 @@ class WhoAmI:
 	     user = 'Mahdi Ettehadnejad'
          age = 17
    	current_work = 'MERN-Stack Developer'
-   	learning = ['ML', 'AI', 'CS', 'French', 'Quantum Mechanics']
+   	learning = ['AI', 'Robotics', 'Quantum Mechanics', 'French']
    
    def getCity():
    	return Shiraz_Iran()
