@@ -19,6 +19,12 @@ class WhoAmI:
  
 
 <br/>
+<br/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-Eth" alt="mahdi-Eth" /></a></p>
+
+<br/>
+<br/>
 
 ## Programming Languages And Technologies I use 👇
 <a title="Python" href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>
@@ -83,6 +89,7 @@ class WhoAmI:
 ![GitHub Streak](https://streak-stats.demolab.com?user=mahdi-Eth&theme=radical)
 	
 <a/>
+
 
 
 
