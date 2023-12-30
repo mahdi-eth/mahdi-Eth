@@ -21,6 +21,7 @@ class WhoAmI:
 <br/>
 <br/>
 
+## 🏆 Github Profile Trophy 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-Eth&column=6&theme=radical&margin-w=15&margin-h=15" alt="mahdi-Eth" /></a></p>
 
 <br/>
