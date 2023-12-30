@@ -21,7 +21,7 @@ class WhoAmI:
 <br/>
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-Eth" alt="mahdi-Eth" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-Eth&column=3&theme=onedark" alt="mahdi-Eth" /></a></p>
 
 <br/>
 <br/>
@@ -41,25 +41,22 @@ class WhoAmI:
 <a title='Numpy' href='https://numpy.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" heigth='30' width='33'/></a>
 <a title='Pandas' href='https://pandas.pydata.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" heigth='30' width='33'/></a>
 <a title='C' href='https://en.wikipedia.org/wiki/C_(programming_language)'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth='30' width='33'/></a>
-<a title="HTML" href="https://html.com/"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/></a> <a title="CSS" href="https://css-tricks.com/"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/></a> <a title="JavaScript" href="https://www.javascript.com/"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a title="Bootstrap" href="https://getbootstrap.com/"><img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/></a> <a title="Figma" href="https://www.figma.com/"><img src = 
-'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width='33'/></a> <a title="Git" href="https://git-scm.com/"><img src = 
+</a> <a title="JavaScript" href="https://www.javascript.com/"><img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a title="Git" href="https://git-scm.com/"><img src = 
 'https://git-scm.com/images/logos/logomark-orange@2x.png' width='33'/></a>
-<a title='Webpack' href='https://webpack.js.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" heigth='30' width='33'/></a>
 <a title='Reactjs' href='https://reactjs.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth='30' width='33'/></a>
-<a title='Tailwind' href='https://tailwindcss.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" heigth='30' width='33'/></a>
-<a title='Sass' href='https://sass-lang.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" heigth='30' width='33'/></a>
 <a title='ESLint' href='https://eslint.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" heigth='30' width='33'/></a>
 <a title='SQLite' href='https://www.sqlite.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" heigth='30' width='33'/></a>
 <a title='Nodejs' href='https://www.nodejs.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" heigth='30' width='33'/></a>
- <a title='Expressjs' href='https://expressjs.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" heigth='30' width='33'/></a>
- <a title='Mongodb' href='https://www.mongodb.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" heigth='30' width='33'/></a>
-  <a title='Flask' href='https://flask.palletsprojects.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" heigth='30' width='33'/></a>
-	<a title='TypeScript' href='https://www.typescriptlang.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth='30' width='33'/></a>
-	
+<a title='Expressjs' href='https://expressjs.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" heigth='30' width='33'/></a>
+<a title='Mongodb' href='https://www.mongodb.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" heigth='30' width='33'/></a>
+<a title='Flask' href='https://flask.palletsprojects.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" heigth='30' width='33'/></a>
+<a title='TypeScript' href='https://www.typescriptlang.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth='30' width='33'/></a>
+<a title='GraphQL' href='https://graphql.org'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" heigth='30' width='33'/></a>
+<a title='SocketIO' href='https://socket.io/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" heigth='30' width='33'/></a>
+<a title='Docker' href='https://www.docker.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" heigth='30' width='33'/></a>
+<a title='Jupyter' href='https://jupyter.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" heigth='30' width='33'/></a>
+
 
 <br/>
 <br/>
