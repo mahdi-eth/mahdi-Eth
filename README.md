@@ -47,10 +47,12 @@ class WhoAmI:
 'https://git-scm.com/images/logos/logomark-orange@2x.png' width='33'/></a>
 <a title='Reactjs' href='https://reactjs.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth='30' width='33'/></a>
 <a title='ESLint' href='https://eslint.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" heigth='30' width='33'/></a>
+<a title='Mongodb' href='https://www.mongodb.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" heigth='30' width='33'/></a>
 <a title='SQLite' href='https://www.sqlite.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" heigth='30' width='33'/></a>
+<a title='MySQL' href='https://www.mysql.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" heigth='30' width='33'/></a>
+<a title='PostgreSQL' href='https://www.postgresql.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigth='30' width='33'/></a>
 <a title='Nodejs' href='https://www.nodejs.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" heigth='30' width='33'/></a>
 <a title='Expressjs' href='https://expressjs.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" heigth='30' width='33'/></a>
-<a title='Mongodb' href='https://www.mongodb.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" heigth='30' width='33'/></a>
 <a title='Flask' href='https://flask.palletsprojects.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" heigth='30' width='33'/></a>
 <a title='TypeScript' href='https://www.typescriptlang.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth='30' width='33'/></a>
 <a title='GraphQL' href='https://graphql.org'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" heigth='30' width='33'/></a>
