@@ -45,8 +45,6 @@ class WhoAmI:
 </a> <a title="JavaScript" href="https://www.javascript.com/"><img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/></a> <a title="Git" href="https://git-scm.com/"><img src = 
 'https://git-scm.com/images/logos/logomark-orange@2x.png' width='33'/></a>
-<a title='Reactjs' href='https://reactjs.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth='30' width='33'/></a>
-<a title='ESLint' href='https://eslint.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" heigth='30' width='33'/></a>
 <a title='Mongodb' href='https://www.mongodb.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" heigth='30' width='33'/></a>
 <a title='SQLite' href='https://www.sqlite.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" heigth='30' width='33'/></a>
 <a title='MySQL' href='https://www.mysql.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" heigth='30' width='33'/></a>
