@@ -28,7 +28,7 @@ class WhoAmI:
 <br/>
 
 ## Programming Languages And Technologies I use 👇
-<a title="Python" href="https://www.python.org/"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>
+<a title="Python" href="https://www.python.org/"><img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='30'/></a>
             <a title="TensorFlow" href="https://www.tensorflow.org/">
                 <img
                     className="bg-_gray p-3 h-14 w-14"
