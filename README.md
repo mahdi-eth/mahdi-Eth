@@ -28,21 +28,20 @@ class WhoAmI:
 <br/>
 
 ## Programming Languages And Technologies I use 👇
-<a title="Python" href="https://www.python.org/"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='30'/></a>
+<a title="Python" href="https://www.python.org/"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' heigth='30' width='33'/></a>
             <a title="TensorFlow" href="https://www.tensorflow.org/">
                 <img
                     className="bg-_gray p-3 h-14 w-14"
                     alt="Programming language logo"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-                    width="30"
-                    height="30"
+                    heigth='30' width='33'
                 />
             </a>
-<a title="Scikit-learn" href="https://scikit-learn.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" height="30"/> </a>
+<a title="Scikit-learn" href="https://scikit-learn.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" heigth='30' width='33'/> </a>
 <a title='Numpy' href='https://numpy.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" heigth='30' width='33'/></a>
 <a title='Pandas' href='https://pandas.pydata.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" heigth='30' width='33'/></a>
-<a title="JavaScript" href="https://www.javascript.com/"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='30'/></a>
-<a title="Git" href="https://git-scm.com/"><img src ='https://git-scm.com/images/logos/logomark-orange@2x.png' width='33'/></a>
+<a title="JavaScript" href="https://www.javascript.com/"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'  heigth='30' width='33'/></a>
+<a title="Git" href="https://git-scm.com/"><img src ='https://git-scm.com/images/logos/logomark-orange@2x.png'  heigth='30' width='33'/></a>
 <a title='Mongodb' href='https://www.mongodb.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" heigth='30' width='33'/></a>
 <a title='SQLite' href='https://www.sqlite.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" heigth='30' width='33'/></a>
 <a title='MySQL' href='https://www.mysql.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" heigth='30' width='33'/></a>
