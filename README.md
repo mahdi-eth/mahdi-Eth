@@ -46,6 +46,7 @@ class WhoAmI:
 <a title='SQLite' href='https://www.sqlite.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" heigth='30' width='33'/></a>
 <a title='MySQL' href='https://www.mysql.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" heigth='30' width='33'/></a>
 <a title='PostgreSQL' href='https://www.postgresql.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigth='30' width='33'/></a>
+<a title='Redis' href='https://developer.redis.com/howtos/quick-start/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" heigth='30' width='33'/></a>
 <a title='Nodejs' href='https://www.nodejs.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" heigth='30' width='33'/></a>
 <a title='Expressjs' href='https://expressjs.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" heigth='30' width='33'/></a>
 <a title='Flask' href='https://flask.palletsprojects.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" heigth='30' width='33'/></a>
