@@ -5,9 +5,9 @@
 - **Name:** Mahdi Ettehadnejad
 - **Age:** 17
 - **Current Role:** Backend Developer
-- **Location:** Shiraz, Iran
 - **Expertise:** Node.js, Express.js, API Development, Database Management
 - **Ambitions:** To continuously grow as a developer and explore new technologies.
+- **Languages:** Fluent in Persian, Proficient in English
 
 
 <br/>
