@@ -1,20 +1,14 @@
 <h1 align="center">Hello!<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></a> Welcome to my humble abode in the Digital World.</h1> 
 
-  ## Who am I?
- ```python
-class WhoAmI:
-	     user = 'Mahdi Ettehadnejad'
-         age = 17
-   	current_work = 'Backend Developer'
-   	learning = ['AI', 'CS', 'Advanced Mathematics']
-   
-   def getCity():
-   	return Shiraz_Iran()
-   
-   def Ambitions():
-   	return AI_engineer()
-	
- ```
+# Who am I?
+
+- **Name:** Mahdi Ettehadnejad
+- **Age:** 17
+- **Current Role:** Backend Developer
+- **Location:** Shiraz, Iran
+- **Expertise:** Node.js, Express.js, API Development, Database Management
+- **Ambitions:** To continuously grow as a developer and explore new technologies.
+
 
 <br/>
 <br/>
@@ -101,15 +95,18 @@ Hey! 👋 I'm **Mahdi Ettehadnejad**, a 17-year-old **backend developer** with a
 
 <br/>
 <br/>
+<br/>
 
 ## 🏆 Github Profile Trophy 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-Eth&column=6&theme=radical&margin-w=15&margin-h=15" alt="mahdi-Eth" /></a></p>
 
+<!--
 <br/>
 <br/>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahdi-eth&limit=5&theme=radical&combine_all_yearly_contributions=true)
+-->
 
 <br/>
 <br/>
