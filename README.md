@@ -8,7 +8,7 @@
 - **Expertise:** Node.js, Express.js, API Development, Database Management
 - **Ambitions:** To continuously grow as a developer and explore new technologies.
 - **Languages:** Fluent in Persian, Proficient in English
-- **Work:** Currently serving as the lead backend developer at [Inja](https://inja.homes).
+- **Work:** Currently serving as the lead backend developer at **[Inja](https://inja.homes)**.
 
 
 <br/>
