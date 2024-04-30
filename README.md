@@ -3,7 +3,7 @@
 # Who am I?
 
 - **Name:** Mahdi Ettehadnejad
-- **Age:** 17
+- **Age:** 18
 - **Current Role:** Backend Developer
 - **Expertise:** Node.js, Express.js, API Development, Database Management
 - **Ambitions:** To continuously grow as a developer and explore new technologies.
@@ -16,7 +16,7 @@
 
 # 💫 About Me:
 
-Hey! 👋 I'm **Mahdi Ettehadnejad**, a 17-year-old **backend developer** with a knack for crafting efficient and robust software solutions. 💻 🌐 Passionate about **AI** and **ML**, I'm on a mission to leverage technology for positive impact. My goal is to create cutting-edge solutions and contribute to the evolution of tech. 🛠️ Whether working independently or as part of a team, I thrive on tackling complex challenges and finding creative solutions. Let's collaborate and shape the future together.
+Hey! 👋 I'm **Mahdi Ettehadnejad**, a 18-year-old **backend developer** with a knack for crafting efficient and robust software solutions. 💻 🌐 Passionate about **AI** and **ML**, I'm on a mission to leverage technology for positive impact. My goal is to create cutting-edge solutions and contribute to the evolution of tech. 🛠️ Whether working independently or as part of a team, I thrive on tackling complex challenges and finding creative solutions. Let's collaborate and shape the future together.
 
 
 <br/>
