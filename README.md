@@ -10,7 +10,6 @@
 - **Languages:** Fluent in Persian, Proficient in English
 - **Work:** Currently serving as the lead backend developer at **[Inja](https://inja.homes)**.
 
-
 <br/>
 <br/>
 
