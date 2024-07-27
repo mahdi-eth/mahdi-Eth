@@ -8,7 +8,7 @@
 - **Expertise:** Backend development & architect, API Development, Database Management
 - **Ambitions:** To continuously grow as a developer and explore new technologies.
 - **Languages:** Fluent in Persian, Proficient in English
-- **Work:** Currently serving as the backend engineer at Iran Laser.
+- **Work:** Currently serving as backend engineer & architect at Iran Laser.
 
 <br/>
 <br/>
