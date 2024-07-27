@@ -8,7 +8,7 @@
 - **Expertise:** Backend development & architect, API Development, Database Management
 - **Ambitions:** To continuously grow as a developer and explore new technologies.
 - **Languages:** Fluent in Persian, Proficient in English
-- **Work:** Currently serving as the lead backend developer at **[Inja](https://inja.homes)**.
+- **Work:** Currently serving as the backend engineer at Iran Laser.
 
 <br/>
 <br/>
@@ -23,6 +23,7 @@ Hey! 👋 I'm **Mahdi Ettehadnejad**, a 18-year-old **backend developer** with a
 
 
 ## 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -125,9 +126,6 @@ Hey! 👋 I'm **Mahdi Ettehadnejad**, a 18-year-old **backend developer** with a
 ![GitHub Streak](https://streak-stats.demolab.com?user=mahdi-Eth&theme=radical)
 	
 <a/>
-
-
-
 
 
 <!--
