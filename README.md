@@ -128,6 +128,7 @@ Hey! 👋 I'm **Mahdi Ettehadnejad**, a 18-year-old **backend developer** with a
 <a/>
 
 <br/>
+<hr/>
 <br/>
 
 <div align="center">
