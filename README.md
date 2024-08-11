@@ -120,7 +120,7 @@ Hey! 👋 I'm **Mahdi Ettehadnejad**, a 18-year-old **backend engineer** with a 
 	
 ## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact&langs_count=70&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact&langs_count=70&theme=radical&hide_progress=true)
 	
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-Eth&show_icons=true&theme=radical) -->
 	
