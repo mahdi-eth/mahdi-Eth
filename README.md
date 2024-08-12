@@ -8,7 +8,13 @@
 - **Expertise:** Backend development & architect, API Development, Database Management
 - **Ambitions:** To continuously grow as a developer and explore new technologies.
 - **Languages:** Fluent in Persian, Proficient in English
-- **Work:** Currently serving as backend engineer & architect at Iran Laser.
+- **Current Work:** Currently serving as backend engineer & architect at Iran Laser.
+
+ - ### **Work History:**
+  - **Most Recent Role:**
+    - **Backend Engineer & Architect** at **[Iran Laser](https://cafeelc.ir)**: Leading the development and architecture of several applications tailored for the specialized devices produced by the company.
+  - **Previous Role:**
+    - **Lead backend developer** at **[inja.homes](https://www.inja.homes)**: Architected and developed the backend from the ground up for a residential platform. Led the backend team and was instrumental in creating a scalable, high-performance infrastructure over two years.
 
 <br/>
 <br/>
