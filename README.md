@@ -11,7 +11,7 @@
 
  - ### **Work History:**
   - **Current Role:**
-    - **Backend Engineer & Architect** at **[Iran Laser](https://cafeelc.ir)**: Leading the development and architecture of several applications tailored for the specialized devices produced by the company.
+    - **Backend Engineer & Architect** at **[Iran Laser](https://cafeelec.ir/)**: Leading the development and architecture of several applications tailored for the specialized devices produced by the company.
   - **Previous Role:**
     - **Lead Backend Developer** at **[inja.homes](https://www.inja.homes)**: Architected and developed the backend from the ground up for a residential platform. Led the backend team and was instrumental in creating a scalable, high-performance infrastructure over two years.
 
