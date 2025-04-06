@@ -5,7 +5,7 @@
 - **Name:** Mahdi Ettehadnejad
 - **Age:** 18
 - **Expertise:** Backend development & architect, API Development, Database Management
-- **Ambitions:** To continuously grow as a developer and explore new technologies.
+- **Ambitions:** To build the impossible, to know the unknown.
 - **Languages:** Fluent in Persian, Proficient in English
 
  - ### **Work History:**
