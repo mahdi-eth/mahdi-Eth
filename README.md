@@ -21,9 +21,7 @@
 # 💫 About Me:
 
 Hey! 👋 I'm Mahdi Ettehadnejad, a 19-year-old engineer. Currently focused on AI, ML, and backend systems. 💻⚙️ I'm deeply driven by the desire to build intelligent systems that serve humanity, as extensions of thought, care, and creativity.
-
 Right now, I’m building real-world systems powered by LLMs, retrieval pipelines, deep learning, and robust infrastructure—while researching about cognitive architectures and the deeper mechanics of intelligence. 
-
 Let's collaborate and shape the future together. ✨
 
 
@@ -56,9 +54,9 @@ Let's collaborate and shape the future together. ✨
 - **CI/CD & DevOps**: Docker, Docker Compose, GitHub Actions, Nginx, AWS S3 & Lambda, Cloudflare DNS  
 
 
-
-
-
+<br/>
+<br/>
+<br/>
 <be/>
 <be/>
 
