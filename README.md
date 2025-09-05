@@ -7,9 +7,7 @@
 - **Role:** Engineer — currently working on agentic architectures and building backend systems  
 - **Ambitions:** To build the impossible, to know the unknown.
 - **Languages:** Persian, English
-
- - ### **Work History:**
-  - **Current Role:**
+- **Current Role:**
     -  **Engineer** at **Chadco** — Designing and implementing scalable backend systems for high-impact projects such as **[AnyWhereAnyCar](https://anywhereanycar.com)**. Focused on performance, architecture, and execution.
 
 <br/>
