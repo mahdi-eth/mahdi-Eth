@@ -11,9 +11,6 @@
  - ### **Work History:**
   - **Current Role:**
     -  **Engineer** at **Chadco** — Designing and implementing scalable backend systems for high-impact projects such as **[AnyWhereAnyCar](https://anywhereanycar.com)**. Focused on performance, architecture, and execution.
-  - **Previous Roles:**
-    - **Backend Engineer & Architect** at **Iran Laser** — Led the development and architecture of several applications tailored for the specialized devices produced by the company.
-    - **Lead Backend Engineer** at **[inja.homes](https://www.inja.homes)** — Architected and developed the backend from the ground up for a residential platform. Led the backend team and was instrumental in creating a scalable, high-performance infrastructure over two years.
 
 <br/>
 <br/>
